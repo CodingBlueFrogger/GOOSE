@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "goosemod:block/goose_block",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "goosemod:block/goose_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "goosemod:block/goose_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "goosemod:block/goose_block",
+      "y": 270
+    }
+  }
+}

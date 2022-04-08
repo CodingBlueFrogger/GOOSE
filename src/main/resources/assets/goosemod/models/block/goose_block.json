@@ -1,0 +1,5 @@
+{
+  "loader": "forge:obj",
+  "flip-v": true,
+  "model": "goosemod:models/block/canadian_goose.obj"
+}

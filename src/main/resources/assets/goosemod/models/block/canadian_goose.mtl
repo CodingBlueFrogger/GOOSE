@@ -1,0 +1,27 @@
+# Blender 3.1.0 MTL File: 'canadian_goose.blend'
+# www.blender.org
+
+newmtl 02___Default
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd  goosemod:block/goose/12256_canadiangoos_goos_diffuse
+map_Ks  goosemod:block/goose/12256_canadiangoos_feet_spec
+map_Bump  -bm 1.000000 goosemod:block/goose/Map__4_Normal_Bump
+
+newmtl 04___Default
+Ns 43.000011
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.261000 0.261000 0.261000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd  goosemod:block/goose/12256_canadiangoos_feet_diffuse
+map_Bump  -bm 1.000000 goosemod:block/goose/Map__12_Normal_Bump
