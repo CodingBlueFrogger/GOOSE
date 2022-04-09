@@ -16,6 +16,7 @@ public class GooseBlock extends Block {
         this.registerDefaultState(this.stateDefinition.any().setValue(FACING, Direction.NORTH));
     }
     
+    // doesnt work .-.
     @Override
     protected void createBlockStateDefinition(StateDefinition.Builder<Block, BlockState> builder) {
           builder.add(FACING);
